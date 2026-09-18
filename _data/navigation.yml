@@ -1,0 +1,23 @@
+# The following is the order of the links in the header of the website.
+#
+# Changing the order here will adjust the order and you can also add additional
+# links. Removing a link prevents it from showing in the header, but does not
+# prevent it from being included in the site.
+#
+# Talks, Teaching, Portfolio and Blog Posts are intentionally omitted: those
+# collections are empty. Re-add the corresponding entry here once a collection
+# has real content (see the README in each collection folder).
+
+main:
+  - title: "About"
+    url: /
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Publications"
+    url: /publications/
+
+  # mailto: links are treated as external by _includes/masthead.html
+  - title: "Contact"
+    url: "mailto:b.p.geisler@medisin.uio.no"

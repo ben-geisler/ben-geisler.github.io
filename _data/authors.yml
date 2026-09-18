@@ -1,0 +1,14 @@
+# Per-page author overrides for the sidebar profile.
+#
+# The sidebar normally uses the `author:` block in _config.yml. A page or post
+# can override it by setting `author: "Some Key"` in its front matter, where
+# "Some Key" is a top-level key below. Same fields as the _config.yml block:
+#
+# Some Key:
+#   name   : "Some Person"
+#   uri    : "https://example.org"
+#   email  : "someone@example.org"
+#   bio    : "One-line bio."
+#   avatar : "their-photo.jpg"   # a file in images/
+#
+# Empty for now: every page uses the site-wide author.
