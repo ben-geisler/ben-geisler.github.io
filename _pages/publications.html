@@ -7,38 +7,45 @@ author_profile: true
 
 {% include base_path %}
 
-<p>A selection of my work is listed below. For the complete record of 60+ publications, see my
-<a href="https://scholar.google.com/citations?user=qVtQpFgAAAAJ">Google Scholar profile</a> or my
-<a href="https://orcid.org/0000-0003-1704-6067">ORCID record</a>.</p>
+<p>This page is a selection, not a complete bibliography. It holds my five most
+recent publications, my co-edited book, and the nine most-cited papers I have
+been involved in. The complete record of 60+ publications lives on
+<a href="https://scholar.google.com/citations?user=qVtQpFgAAAAJ">Google Scholar</a> and
+<a href="https://orcid.org/0000-0003-1704-6067">ORCiD</a>.</p>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
+<!--
+  Groups and their order come from `publication_category` in _config.yml; each
+  entry in _publications/ picks its group with `category:`.
+
+  "Other selected publications" is ordered by citation count rather than by
+  date, using the `citation_rank` field (1 = most cited). Every other group is
+  ordered newest first. Ranking was taken from Google Scholar in September 2026
+  and cross-checked against OpenAlex and Semantic Scholar; the counts
+  themselves are deliberately not shown, since they go stale.
+-->
+{% for category in site.publication_category %}
+  {% assign cat_key = category[0] %}
+  {% assign items = site.publications | where: "category", cat_key %}
+  {% if items.size > 0 %}
+    {% if cat_key == "selected" %}
+      {% assign items = items | sort: "citation_rank" %}
+    {% else %}
+      {% assign items = items | sort: "date" | reverse %}
+    {% endif %}
+    <h2>{{ category[1].title }}</h2><hr />
+    {% for post in items %}
       {% include archive-single.html %}
     {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  {% endif %}
+{% endfor %}
 
 <hr />
 
-<h2>Full list of publications</h2>
+<h2>Everything else</h2>
 
-<p>This page is a curated selection, not a complete bibliography. The full list of 60+ publications is maintained at:</p>
+<p>For the full list, including the work not featured above:</p>
 
 <ul>
   <li><a href="https://scholar.google.com/citations?user=qVtQpFgAAAAJ">Google Scholar</a></li>
-  <li><a href="https://orcid.org/0000-0003-1704-6067">ORCID: 0000-0003-1704-6067</a></li>
+  <li><a href="https://orcid.org/0000-0003-1704-6067">ORCiD: 0000-0003-1704-6067</a></li>
 </ul>

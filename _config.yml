@@ -47,7 +47,8 @@ author:
 
   # Other profiles and projects
   podcast          : "https://linktr.ee/imjournalclub"
-  podcast_label    : "Internal Medicine Journal Club (podcast, archived)"
+  podcast_label    : "IM Journal Club"
+  slideshare       : "https://www.slideshare.net/bengggggg/"
 
 
   # Repositories and software development
@@ -86,13 +87,14 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
+# Publication groupings, in the order they appear on /publications/.
 publication_category:
+  recent:
+    title: 'Recent publications'
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  selected:
+    title: 'Other selected publications'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
