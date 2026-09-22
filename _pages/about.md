@@ -18,7 +18,7 @@ I am a German-American internist, board-certified in internal medicine. I earned
 
 From 2015 to 2024 I practiced as an attending physician and hospitalist at Massachusetts General Hospital, and held an appointment as Instructor in Medicine at Harvard Medical School over the same period. Alongside clinical work I spent 2009 to 2020 as a Senior Consultant at Wing Tech Inc., a boutique research consultancy working mostly for medical device companies and on early health technology assessment, and held adjunct academic appointments as Lecturer at the University of Adelaide (2017–2020) and as Associate Professor at Flinders University in Adelaide (2019–2022).
 
-Current collaborations
+Current Work and collaborations
 ======
 
 My doctoral work uses data from the METIMMOX trial, an investigator-initiated phase 2 trial of alternating PD-1/PD-L1 immunotherapy against standard chemotherapy in metastatic colorectal cancer patients without MSI-high tumors, who make up 85–95% of that population. I look at how prognostic and predictive biomarkers differ, model the clinical and economic consequences of biomarker-guided patient selection strategies, and lead a strand of the work on the cost-effectiveness of further research using value of information analysis.
