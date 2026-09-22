@@ -2,8 +2,8 @@
   "use strict";
 
   function renderEmail() {
-    var placeholder = document.getElementById("obfuscated-email");
-    if (!placeholder) return;
+    var placeholders = document.querySelectorAll("#obfuscated-email, [data-obfuscated-email]");
+    if (!placeholders.length) return;
 
     var fragments = [
       [98, 46, 112, 46, 103],
@@ -15,16 +15,18 @@
     var address = fragments.map(function (fragment) {
       return String.fromCharCode.apply(null, fragment);
     }).join("");
-    var link = document.createElement("a");
-    link.href = "mailto:" + address;
-    link.setAttribute("aria-label", "Email Benjamin Geisler");
-    var icon = document.createElement("i");
-    icon.className = "fas fa-fw fa-envelope icon-pad-right";
-    icon.setAttribute("aria-hidden", "true");
-    link.appendChild(icon);
-    link.appendChild(document.createTextNode("Email"));
-    placeholder.textContent = "";
-    placeholder.appendChild(link);
+    placeholders.forEach(function (placeholder) {
+      var link = document.createElement("a");
+      link.href = "mailto:" + address;
+      link.setAttribute("aria-label", "Email Benjamin Geisler");
+      var icon = document.createElement("i");
+      icon.className = "fas fa-fw fa-envelope icon-pad-right";
+      icon.setAttribute("aria-hidden", "true");
+      link.appendChild(icon);
+      link.appendChild(document.createTextNode(placeholder.getAttribute("data-email-label") || "Email"));
+      placeholder.textContent = "";
+      placeholder.appendChild(link);
+    });
   }
 
   if (document.readyState === "loading") {

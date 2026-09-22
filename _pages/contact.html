@@ -6,16 +6,15 @@ author_profile: true
 formspree_action: "https://formspree.io/f/mkjgrqna"
 ---
 
-{% comment %}
-TODO: Create a Formspree form and replace formspree_action above with its endpoint.
-The form becomes enabled automatically once the placeholder is replaced.
-{% endcomment %}
+<p>You can email me directly using your email app, or send a message through the form below.</p>
+<p><span data-obfuscated-email data-email-label="Email me directly">Enable JavaScript to see the direct email link, or use the form below.</span></p>
+
 {% assign contact_pending = false %}
 {% if page.formspree_action contains 'TODO' %}
   {% assign contact_pending = true %}
   <p>The contact form is not available yet. Please enable JavaScript and use the Email link in my profile.</p>
 {% else %}
-  <p>Use this form to send me a message. No JavaScript is required.</p>
+  <p>Prefer to use the form? No JavaScript is required.</p>
 {% endif %}
 
 <form action="{{ page.formspree_action | escape }}" method="POST">
