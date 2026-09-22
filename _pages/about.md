@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Benjamin P. Geisler"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Doctoral Research Fellow (stipendiat) in the Department of Health Management and Health Economics (HELED) at the Faculty of Medicine, University of Oslo, where I have been a PhD candidate since 2023.
 
-My research sits at the intersection of decision-analytic modeling in precision oncology, health economics and outcomes research, and evidence-based internal medicine. Most of my work asks a version of the same question: given imperfect evidence, which diagnostic or treatment strategies are worth their cost, and for whom?
+My doctoral research sits at the intersection of decision-analytic modeling in precision oncology, health economics and outcomes research, and evidence-based internal medicine. Most of my work asks a version of the same question: given imperfect evidence, which diagnostic or treatment strategies are worth their cost, and for whom?
 
 Background
 ======
@@ -18,15 +18,17 @@ I am a German-American internist, board-certified in internal medicine. I earned
 
 From 2015 to 2024 I practiced as an attending physician and hospitalist at Massachusetts General Hospital, and held an appointment as Instructor in Medicine at Harvard Medical School over the same period. Alongside clinical work I spent 2009 to 2020 as a Senior Consultant at Wing Tech Inc., a boutique research consultancy working mostly for medical device companies and on early health technology assessment, and held adjunct academic appointments as Lecturer at the University of Adelaide (2017–2020) and as Associate Professor at Flinders University in Adelaide (2019–2022).
 
-Editorial work
-======
-
-I serve as an Associate Editor at *PLOS Digital Health* (since 2022) and sit on the editorial boards of *Pharmacoeconomics* and *Digital Medicine* (both since 2017). Previously I was a Co-editor at *Value in Health* (2008–2017) and an Academic Editor at *PLOS One* (2018–2022).
-
 Current collaborations
 ======
 
+My doctoral work uses data from the METIMMOX trial, an investigator-initiated phase 2 trial of alternating PD-1/PD-L1 immunotherapy against standard chemotherapy in metastatic colorectal cancer patients without MSI-high tumors, who make up 85–95% of that population. I look at how prognostic and predictive biomarkers differ, model the clinical and economic consequences of biomarker-guided patient selection strategies, and lead a strand of the work on the cost-effectiveness of further research using value of information analysis.
+
 I work with the Department of Oncology at Akershus University Hospital, and I am part of the EU-funded multi-stakeholder ASCERTAIN project on the affordability and sustainability of health innovations.
+
+Editorial work
+======
+
+I serve as an Associate Editor at *PLOS Digital Health* (since 2022) and sit on the editorial boards of *Pharmacoeconomics* and *Digital Medicine* (both since 2017). Previously I was a Co-editor at *Value in Health* (2008–2017) and an Academic Editor at *PLOS One* (2018–2022). *50 Studies Every Hospitalist Should Know*, a volume I co-edited with two fellow hospitalists, was recently published by Oxford University Press.
 
 Selected honors
 ======
