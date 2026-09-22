@@ -7,38 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Doctoral Research Fellow (stipendiat) in the Department of Health Management and Health Economics (HELED) at the Faculty of Medicine, University of Oslo, where I have been a PhD candidate since 2023.
+I am a Doctoral Research Fellow (stipendiat) in the Department of Health Management and Health Economics (HELED) at the Faculty of Medicine, University of Oslo, where I have been a PhD candidate since 2023. Most of my work asks a version of the same question: given imperfect evidence, which diagnostic or treatment strategies are worth their cost, and for whom?
 
-My doctoral research sits at the intersection of decision-analytic modeling in precision oncology, health economics and outcomes research, and evidence-based internal medicine. Most of my work asks a version of the same question: given imperfect evidence, which diagnostic or treatment strategies are worth their cost, and for whom?
+My doctoral work uses data from the METIMMOX trial, an investigator-initiated phase 2 trial of alternating immunotherapy and chemotherapy in metastatic colorectal cancer patients without MSI-high tumors. I look at how prognostic and predictive biomarkers differ, model the clinical and economic consequences of biomarker-guided patient selection, and lead a strand of the work on value of information analysis. I collaborate with the Department of Oncology at Akershus University Hospital and am part of the EU-funded ASCERTAIN project on the affordability and sustainability of health innovations.
 
-Background
-======
+Before Oslo, I was an internist. I trained at Charité in Berlin and NYU, took an MPH at Harvard, and from 2015 to 2024 practiced as a hospitalist at Massachusetts General Hospital while teaching as an Instructor in Medicine at Harvard Medical School. Alongside clinical work I spent a decade in early health technology assessment consulting, mostly for medical device companies.
 
-I am a German-American internist, board-certified in internal medicine. I earned my medical degree (3. Staatsexamen, M.D. equivalent) at Charité – Universitätsmedizin Berlin between 1998 and 2006, and a Master of Public Health from Harvard University in 2008–2009. I completed internal medicine residency at NYU School of Medicine from 2012 to 2015.
+I met my wife in Boston while on a decision sciences research fellowship. We moved to Oslo in 2022 and are raising a young child here.
 
-From 2015 to 2024 I practiced as an attending physician and hospitalist at Massachusetts General Hospital, and held an appointment as Instructor in Medicine at Harvard Medical School over the same period. Alongside clinical work I spent 2009 to 2020 as a Senior Consultant at Wing Tech Inc., a boutique research consultancy working mostly for medical device companies and on early health technology assessment, and held adjunct academic appointments as Lecturer at the University of Adelaide (2017–2020) and as Associate Professor at Flinders University in Adelaide (2019–2022).
+More
+------
 
-Current Work and collaborations
-======
-
-My doctoral work uses data from the METIMMOX trial, an investigator-initiated phase 2 trial of alternating PD-1/PD-L1 immunotherapy against standard chemotherapy in metastatic colorectal cancer patients without MSI-high tumors, who make up 85–95% of that population. I look at how prognostic and predictive biomarkers differ, model the clinical and economic consequences of biomarker-guided patient selection strategies, and lead a strand of the work on the cost-effectiveness of further research using value of information analysis.
-
-I work with the Department of Oncology at Akershus University Hospital, and I am part of the EU-funded multi-stakeholder ASCERTAIN project on the affordability and sustainability of health innovations.
-
-Editorial work
-======
-
-I serve as an Associate Editor at *PLOS Digital Health* (since 2022) and sit on the editorial boards of *Pharmacoeconomics* and *Digital Medicine* (both since 2017). Previously I was a Co-editor at *Value in Health* (2008–2017) and an Academic Editor at *PLOS One* (2018–2022). *50 Studies Every Hospitalist Should Know*, a volume I co-edited with two fellow hospitalists, was recently published by Oxford University Press.
-
-Selected honors
-======
-
-* Elected Fellow, Society for Hospital Medicine (2020)
-* Elected Fellow, American College of Physicians (2019)
-* Distinguished Service Award, ISPOR (2017)
-* DAAD Full Graduate Scholarship (2008–2009)
-
-Outside the office
-======
-
-I met my wife in Boston while I was on a decision sciences research fellowship. We moved to Oslo in 2022 and are raising a young child here.
+* [CV]({{ site.baseurl }}/cv/): positions, education, editorial work and honors, plus the PDFs.
+* [Publications]({{ site.baseurl }}/publications/): recent and most-cited papers, and my co-edited book.

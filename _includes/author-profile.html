@@ -21,7 +21,7 @@
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
+    <button class="btn btn--inverse">Links</button>
     <ul class="author__urls social-icons">
       <!-- Biographic information -->
       {% if author.location %}
@@ -55,17 +55,17 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCiD</a></li>
       {% endif %}
-      {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
-      {% endif %}
-      {% if author.academia %}
-        <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right" aria-hidden="true"></i>Academia.edu</a></li>
-      {% endif %}
       {% if author.podcast %}
         <li><a href="{{ author.podcast }}"><i class="fas fa-fw fa-podcast icon-pad-right" aria-hidden="true"></i>{{ author.podcast_label | default: "Podcast" }}</a></li>
       {% endif %}
-      {% if author.slideshare %}
-        <li><a href="{{ author.slideshare }}"><i class="fab fa-fw fa-slideshare icon-pad-right" aria-hidden="true"></i>SlideShare</a></li>
+      {% if author.twitter %}
+        <li><a href="https://x.com/{{ author.twitter }}"><i class="fab fa-fw fa-x-twitter icon-pad-right" aria-hidden="true"></i>X</a></li>
+      {% endif %}
+      {% if author.bluesky %}
+        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
+      {% endif %}
+      {% if author.threads %}
+        <li><a href="https://www.threads.net/@{{ author.threads }}"><i class="fab fa-fw fa-threads icon-pad-right" aria-hidden="true"></i>Threads</a></li>
       {% endif %}
     </ul>
   </div>
