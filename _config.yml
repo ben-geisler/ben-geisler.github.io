@@ -13,7 +13,7 @@ title                    : "Benjamin P. Geisler"
 title_separator          : "-"
 name                     : &name "Benjamin P. Geisler"
 description              : &description "Doctoral Research Fellow, Health Economics and Outcomes Research — University of Oslo"
-url                      : https://ben-geisler.com # custom domain; see CNAME at repo root
+url                      : https://ben-geisler.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ben-geisler/ben-geisler.github.io"
 
