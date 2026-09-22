@@ -1,0 +1,28 @@
+<!--
+  One entry on /publications/. Used instead of archive-single.html because the
+  publications collection has `output: false` in _config.yml, so there is no
+  individual page to link to: the title links to the paper itself.
+-->
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}">{{ post.title }}</a>
+      {% else %}
+        {{ post.title }}
+      {% endif %}
+    </h2>
+
+    <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% endif %}
+
+    {% if post.citation %}
+      <p>Recommended citation: {{ post.citation }}</p>
+    {% endif %}
+
+  </article>
+</div>

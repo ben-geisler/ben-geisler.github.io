@@ -229,9 +229,11 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  # No individual page per publication: everything is rendered on
+  # /publications/ and the entries link straight to the DOI. The files in
+  # _publications/ are the data source, not pages.
   publications:
-    output: true
-    permalink: /:collection/:path/
+    output: false
   portfolio:
     output: true
     permalink: /:collection/:path/
