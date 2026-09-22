@@ -8,5 +8,5 @@ excerpt: 'Whether patients with the same conditions stay in hospital for differe
 date: 2021-05-18
 venue: 'Medicine'
 paperurl: 'https://doi.org/10.1097/md.0000000000025976'
-citation: 'Ghosh AK, Geisler BP, Ibrahim S (2021). &quot;Racial/ethnic and socioeconomic variations in hospital length of stay.&quot; <i>Medicine</i> 100(20):e25976. doi:10.1097/md.0000000000025976'
+citation: 'Ghosh AK, Geisler BP, Ibrahim S (2021). &quot;Racial/ethnic and socioeconomic variations in hospital length of stay.&quot; <i>Medicine (Baltimore)</i> 100(20):e25976. doi:10.1097/md.0000000000025976'
 ---

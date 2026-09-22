@@ -7,5 +7,5 @@ excerpt: 'A comparison of two treatments for the syndrome of inappropriate antid
 date: 2026-07-15
 venue: 'Nephrology Dialysis Transplantation'
 paperurl: 'https://doi.org/10.1093/ndt/gfag165'
-citation: 'Heller M, Marx K, Hoffmann U, Rebettge J, Bader F, Fenves AZ, Geisler BP, Wendt R (2026). &quot;Urea versus tolvaptan for hospitalized patients with SIAD.&quot; <i>Nephrology Dialysis Transplantation</i>. doi:10.1093/ndt/gfag165'
+citation: 'Heller M, Marx K, Hoffmann U, Rebettge J, Bader F, Fenves AZ, Geisler BP, Wendt R (2026). &quot;Urea versus tolvaptan for hospitalized patients with SIAD.&quot; <i>Nephrol Dial Transplant</i>. doi:10.1093/ndt/gfag165'
 ---

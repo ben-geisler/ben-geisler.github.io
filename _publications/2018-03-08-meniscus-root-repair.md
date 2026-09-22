@@ -8,5 +8,5 @@ excerpt: 'A comparison of three ways of managing a medial meniscus root tear, fo
 date: 2018-03-08
 venue: 'The American Journal of Sports Medicine'
 paperurl: 'https://doi.org/10.1177/0363546518755754'
-citation: 'Faucett SC, Geisler BP, Chahla J, Krych AJ, Kurzweil PR, Garner AM, Liu S, LaPrade RF, Pietzsch JB (2018). &quot;Meniscus Root Repair vs Meniscectomy or Nonoperative Management to Prevent Knee Osteoarthritis After Medial Meniscus Root Tears: Clinical and Economic Effectiveness.&quot; <i>The American Journal of Sports Medicine</i>. doi:10.1177/0363546518755754'
+citation: 'Faucett SC, Geisler BP, Chahla J, Krych AJ, Kurzweil PR, Garner AM, Liu S, LaPrade RF, Pietzsch JB (2018). &quot;Meniscus Root Repair vs Meniscectomy or Nonoperative Management to Prevent Knee Osteoarthritis After Medial Meniscus Root Tears: Clinical and Economic Effectiveness.&quot; <i>Am J Sports Med</i>. doi:10.1177/0363546518755754'
 ---

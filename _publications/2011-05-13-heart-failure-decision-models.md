@@ -8,5 +8,5 @@ excerpt: 'A survey of how heart failure had been represented in decision-analyti
 date: 2011-05-13
 venue: 'PharmacoEconomics'
 paperurl: 'https://doi.org/10.2165/11585990-000000000-00000'
-citation: 'Goehler A, Geisler BP, Manne JM, Jahn B, Conrads-Frank A, Schnell-Inderst P, Gazelle GS, Siebert U (2011). &quot;Decision-Analytic Models to Simulate Health Outcomes and Costs in Heart Failure: A Systematic Review.&quot; <i>PharmacoEconomics</i> 29(9):753-769. doi:10.2165/11585990-000000000-00000'
+citation: 'Goehler A, Geisler BP, Manne JM, Jahn B, Conrads-Frank A, Schnell-Inderst P, Gazelle GS, Siebert U (2011). &quot;Decision-Analytic Models to Simulate Health Outcomes and Costs in Heart Failure: A Systematic Review.&quot; <i>Pharmacoeconomics</i> 29(9):753-769. doi:10.2165/11585990-000000000-00000'
 ---

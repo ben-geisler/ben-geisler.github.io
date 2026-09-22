@@ -8,5 +8,5 @@ excerpt: 'A national picture of how often US emergency departments placed patien
 date: 2011-09-14
 venue: 'PLOS ONE'
 paperurl: 'https://doi.org/10.1371/journal.pone.0024326'
-citation: 'Venkatesh AK, Geisler BP, Gibson Chambers JJ, Baugh CW, Bohan JS, Schuur JD (2011). &quot;Use of Observation Care in US Emergency Departments, 2001 to 2008.&quot; <i>PLOS ONE</i> 6(9):e24326. doi:10.1371/journal.pone.0024326'
+citation: 'Venkatesh AK, Geisler BP, Gibson Chambers JJ, Baugh CW, Bohan JS, Schuur JD (2011). &quot;Use of Observation Care in US Emergency Departments, 2001 to 2008.&quot; <i>PLoS One</i> 6(9):e24326. doi:10.1371/journal.pone.0024326'
 ---

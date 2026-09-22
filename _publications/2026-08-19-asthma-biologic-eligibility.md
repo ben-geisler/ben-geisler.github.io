@@ -7,5 +7,5 @@ excerpt: 'How many more patients would qualify for asthma biologics if the eligi
 date: 2026-08-19
 venue: 'World Allergy Organization Journal'
 paperurl: 'https://doi.org/10.1016/j.waojou.2026.101449'
-citation: 'Yang F, Geisler BP, d&rsquo;Ancona G, Lee B, Jackson DJ, Bloom CI (2026). &quot;Prevalence and cost implications of broadening asthma biologic eligibility criteria.&quot; <i>World Allergy Organization Journal</i>. doi:10.1016/j.waojou.2026.101449'
+citation: 'Yang F, Geisler BP, d&rsquo;Ancona G, Lee B, Jackson DJ, Bloom CI (2026). &quot;Prevalence and cost implications of broadening asthma biologic eligibility criteria.&quot; <i>World Allergy Organ J</i>. doi:10.1016/j.waojou.2026.101449'
 ---

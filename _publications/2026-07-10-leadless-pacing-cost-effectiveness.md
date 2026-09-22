@@ -7,5 +7,5 @@ excerpt: 'An economic evaluation of leadless pacemakers with atrioventricular sy
 date: 2026-07-10
 venue: 'Circulation Reports'
 paperurl: 'https://doi.org/10.1253/circrep.cr-26-0090'
-citation: 'Satomi K, Soejima K, Kusano K, Myung JE, Tanaka Y, Ryschon AM, Geisler BP, Ikeno F, Pietzsch JB (2026). &quot;Cost-Effectiveness of Atrioventricular Synchronous Leadless Pacing in Patients With Atrioventricular Block.&quot; <i>Circulation Reports</i>. doi:10.1253/circrep.cr-26-0090'
+citation: 'Satomi K, Soejima K, Kusano K, Myung JE, Tanaka Y, Ryschon AM, Geisler BP, Ikeno F, Pietzsch JB (2026). &quot;Cost-Effectiveness of Atrioventricular Synchronous Leadless Pacing in Patients With Atrioventricular Block.&quot; <i>Circ Rep</i>. doi:10.1253/circrep.cr-26-0090'
 ---

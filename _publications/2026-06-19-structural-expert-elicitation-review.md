@@ -7,5 +7,5 @@ excerpt: 'When the evidence does not settle how a decision model should be struc
 date: 2026-06-19
 venue: 'PharmacoEconomics'
 paperurl: 'https://doi.org/10.1007/s40273-026-01628-x'
-citation: 'Geisler BP, Holmboe F, Starinieri I, Aas E (2026). &quot;Applications of Structural Expert Elicitations for Economic Evaluations: A Systematic Review Update.&quot; <i>PharmacoEconomics</i>. doi:10.1007/s40273-026-01628-x'
+citation: 'Geisler BP, Holmboe F, Starinieri I, Aas E (2026). &quot;Applications of Structural Expert Elicitations for Economic Evaluations: A Systematic Review Update.&quot; <i>Pharmacoeconomics</i>. doi:10.1007/s40273-026-01628-x'
 ---

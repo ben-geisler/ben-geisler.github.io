@@ -14,14 +14,16 @@
       {% endif %}
     </h2>
 
-    <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+    {% assign pub_date = post.date | default: "1900-01-01" %}
+    {% assign pub_month_day = pub_date | date: "%m-%d" %}
+    <p>Published in <i>{{ post.venue }}</i>, {% if pub_month_day == "01-01" %}{{ pub_date | date: "%Y" }}{% else %}{{ pub_date | date: "%B %Y" }}{% endif %}</p>
 
     {% if post.excerpt %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% endif %}
 
     {% if post.citation %}
-      <p>Recommended citation: {{ post.citation }}</p>
+      <p>Citation: {{ post.citation }}</p>
     {% endif %}
 
   </article>

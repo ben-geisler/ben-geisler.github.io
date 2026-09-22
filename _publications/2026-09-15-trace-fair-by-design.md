@@ -7,5 +7,5 @@ excerpt: 'A design for a research environment that lets analysts work on sensiti
 date: 2026-09-15
 venue: 'BMC Medical Informatics and Decision Making'
 paperurl: 'https://doi.org/10.1186/s12911-026-03840-3'
-citation: 'M&uuml;ller M, Geisler BP, Shamas S, von Bomhard N, Hoster E, Pfirrmann M, Mansmann U (2026). &quot;FAIR by design (TRACE): A Trusted Research Access &amp; Collaboration Environment.&quot; <i>BMC Medical Informatics and Decision Making</i>. doi:10.1186/s12911-026-03840-3'
+citation: 'M&uuml;ller M, Geisler BP, Shamas S, von Bomhard N, Hoster E, Pfirrmann M, Mansmann U (2026). &quot;FAIR by design (TRACE): A Trusted Research Access &amp; Collaboration Environment.&quot; <i>BMC Med Inform Decis Mak</i>. doi:10.1186/s12911-026-03840-3'
 ---

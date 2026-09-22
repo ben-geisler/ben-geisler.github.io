@@ -8,5 +8,5 @@ excerpt: 'A review of the economic evidence on endovascular treatment of periphe
 date: 2014-04-30
 venue: 'Catheterization and Cardiovascular Interventions'
 paperurl: 'https://doi.org/10.1002/ccd.25536'
-citation: 'Pietzsch JB, Geisler BP, Garner AM, Zeller T, Jaff MR (2014). &quot;Economic analysis of endovascular interventions for femoropopliteal arterial disease: A systematic review and budget impact model for the United States and Germany.&quot; <i>Catheterization and Cardiovascular Interventions</i> 84(4):546-554. doi:10.1002/ccd.25536'
+citation: 'Pietzsch JB, Geisler BP, Garner AM, Zeller T, Jaff MR (2014). &quot;Economic analysis of endovascular interventions for femoropopliteal arterial disease: A systematic review and budget impact model for the United States and Germany.&quot; <i>Catheter Cardiovasc Interv</i> 84(4):546-554. doi:10.1002/ccd.25536'
 ---
