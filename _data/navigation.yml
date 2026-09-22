@@ -18,6 +18,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # mailto: links are treated as external by _includes/masthead.html
   - title: "Contact"
-    url: "mailto:b.p.geisler@medisin.uio.no"
+    url: /contact/

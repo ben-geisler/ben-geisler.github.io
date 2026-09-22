@@ -29,7 +29,7 @@ author:
   location         : "Oslo, Norway"
   employer         : "University of Oslo"
   uri              : "https://www.med.uio.no/helsam/english/people/aca/benjampg/index.html" # UiO staff profile
-  email            : "b.p.geisler@medisin.uio.no"
+  email            : "" # Sidebar email is reconstructed by assets/js/email-obfuscate.js.
 
   # Academic websites
   academia         : "https://uio.academia.edu/BenjaminGeisler"
